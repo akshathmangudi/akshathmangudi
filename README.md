@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/82276039/269056988-31154509-b78e-4f7c-8279-093d4a95671f.jpg" align="center" style="width: 100%" />
+<img src="C:\Users\Aksha\OneDrive\Pictures\Documents\stdcout.jpg" align="center" style="width: 100%" />
 </div>  
   
 
