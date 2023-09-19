@@ -1,5 +1,5 @@
 <h3>Profile view count:</h3> 
-![Visitor Count](https://profile-counter.glitch.me/{akshathmangudi}/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/{akshathmangudi}/count.svg)]
 
 This is Akshath Mangudi's official GitHub profile.
 
