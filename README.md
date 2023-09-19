@@ -1,4 +1,6 @@
-I've been viewed ![Visitor Count](https://profile-counter.glitch.me/{akshathmangudi}/count.svg)
+<h3>I've been viewed</h3> 
+
+![Visitor Count](https://profile-counter.glitch.me/{akshathmangudi}/count.svg) times
 
 
 This is Akshath Mangudi's official GitHub profile.
