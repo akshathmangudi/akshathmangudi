@@ -1,5 +1,5 @@
 <div align="center">
-<img src="file:///C:/Users/Aksha/OneDrive/Pictures/Documents/stdcout.jpg" align="center" style="width: 100%" />
+<img src="C:/Users/Aksha/OneDrive/Pictures/Documents/stdcout.jpg" align="center" style="width: 100%" />
 </div>  
   
 
