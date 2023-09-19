@@ -22,7 +22,7 @@
 <br/>  
 
 
-## My Skill Set  
+## What do I know? 
 <table><tr><td valign="top" width="33%">
 
 
@@ -67,7 +67,7 @@
 <br/>  
 
 
-## Connect with me  
+## Let's Connect!
 <div align="center">
 <a href="https://github.com/akshathmangudi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -114,8 +114,6 @@
 
 <br/>  
 
-
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
