@@ -1,3 +1,6 @@
+I've been viewed ![Visitor Count](https://profile-counter.glitch.me/{akshathmangudi}/count.svg)
+
+
 This is Akshath Mangudi's official GitHub profile.
 
 - ⌛ I’m currently working on AI/ML
