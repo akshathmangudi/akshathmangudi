@@ -1,4 +1,4 @@
-<h3>Profile view count:</h3> 
+![stdcout](https://github.com/akshathmangudi/akshathmangudi/assets/82276039/31154509-b78e-4f7c-8279-093d4a95671f)
 
 ![](https://komarev.com/ghpvc/?username=akshathmangudi&color=556b2f)
 
