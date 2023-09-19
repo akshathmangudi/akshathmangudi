@@ -1,5 +1,6 @@
 <h3>Profile view count:</h3> 
-[![Visitor Count](https://profile-counter.glitch.me/{akshathmangudi}/count.svg)]
+
+![](https://komarev.com/ghpvc/?username=akshathmangudi&color=556b2f)
 
 This is Akshath Mangudi's official GitHub profile.
 
