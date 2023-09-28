@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">About Me</div>  
+### <div align="center"></div>  
   
 
 - ⌛ I’m currently working on AI/ML  
