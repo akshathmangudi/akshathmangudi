@@ -91,20 +91,6 @@
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshathmangudi&hide_border=true&layout=compact" align="right" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=w7m46pccht6iwuxdn1c37lfc2&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=62a960&bar_color_cover=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=akshathmangudi&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
