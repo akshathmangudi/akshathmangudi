@@ -2,7 +2,7 @@
 <img src="https://github.com/akshathmangudi/akshathmangudi/assets/82276039/31154509-b78e-4f7c-8279-093d4a95671f" align="center" style="width: 100%" />
 </div>  
   
-
+### <div align="center"> Moving to GitLab now: <a href="https://gitlab.com/akshathmangudi">My Profile</a> </div>
 ### <div align="center"></div>  
   
 
