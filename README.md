@@ -1,1 +1,1 @@
-currently tinkering around with deep neural nets. 
+Currently reading ISLP and tinkering around with deep nerual nets.
